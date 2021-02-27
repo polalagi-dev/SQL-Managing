@@ -18,3 +18,5 @@ Linux: python sql_manage.py
 MacOS: python sql_manage.py
 
 Windows: python sql_manage.py
+
+[Suggest Change](https://www.polalagi-serv.host/suggest-change)
