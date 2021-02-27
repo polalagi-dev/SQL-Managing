@@ -1,0 +1,4 @@
+[install]
+# These are the assumed default build requirements from pip:
+# https://pip.pypa.io/en/stable/reference/pip/#pep-517-and-518-support
+requires = ["mysql", "mysql.connector", "hashlib", "time", "crypto", "crypto[ALL]"]
