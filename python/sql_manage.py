@@ -5,7 +5,7 @@ from time import *
 from hashlib import *
 from Crypto.Cipher import AES
 
-def console_sql :
+def console_sql():
     input_sql = input(host_sql,"/",database_sql,"/~$ ")
 
 
