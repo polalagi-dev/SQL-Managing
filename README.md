@@ -8,7 +8,9 @@ Linux: install_MAC.sh
 
 Android: install.sh
 
-PC: Windows 10: Microsoft Store, Windows 8.1 And Above [Download Python](https://www.python.org/downloads/) I suggest download python 3.9.2!
+PC: Windows 10: Microsoft Store,
+
+Windows 8.1 And Above Must [Download Python](https://www.python.org/downloads/), I suggest downloading python 3.9.2!
 
 # Run File
 Android: python sql_manage.py
